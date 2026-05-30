@@ -1,0 +1,4 @@
+month,forecast_revenue,forecast_model
+2026-01-01,5486530.1,Random Forest
+2026-02-01,5492457.66,Random Forest
+2026-03-01,5740271.06,Random Forest

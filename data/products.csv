@@ -1,0 +1,9 @@
+product_id,product_name,category,avg_unit_price
+P001,Cardiovex,Cardiology,780
+P002,GlucoRelief,Diabetes,540
+P003,RespiraPlus,Respiratory,660
+P004,NeuroCalm,Neurology,890
+P005,GastroEase,Gastroenterology,460
+P006,DermaCure,Dermatology,510
+P007,OrthoFlex,Orthopedics,610
+P008,VitaBoost,General Medicine,320

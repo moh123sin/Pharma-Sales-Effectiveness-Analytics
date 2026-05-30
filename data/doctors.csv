@@ -1,0 +1,851 @@
+doctor_id,doctor_name,specialty,potential_class,practice_years,territory,region,city
+D0001,Dr. Farhan Menon,Cardiology,C,28,Ludhiana,North,Ludhiana
+D0002,Dr. Pooja Jain,Diabetology,A,6,North Delhi,North,Delhi
+D0003,Dr. Ayush Shah,Diabetology,C,4,Chandigarh,North,Chandigarh
+D0004,Dr. Aditi Jain,Neurology,C,24,Hyderabad,South,Hyderabad
+D0005,Dr. Ishita Desai,Diabetology,B,7,Lucknow,North,Lucknow
+D0006,Dr. Tanvi Roy,Pediatrics,C,6,Dehradun,North,Dehradun
+D0007,Dr. Alok Menon,Gastroenterology,C,15,Patna,East,Patna
+D0008,Dr. Diya Mehta,Dermatology,C,28,Patna,East,Patna
+D0009,Dr. Rahul Verma,Orthopedics,B,25,Patna,East,Patna
+D0010,Dr. Kavya Iyer,Gynecology,A,17,Mumbai,West,Mumbai
+D0011,Dr. Harsh Rao,Cardiology,B,7,Hyderabad,South,Hyderabad
+D0012,Dr. Akash Gupta,General Medicine,B,11,Hyderabad,South,Hyderabad
+D0013,Dr. Aisha Das,General Medicine,A,21,Ludhiana,North,Ludhiana
+D0014,Dr. Riya Menon,Gynecology,B,6,Chennai,South,Chennai
+D0015,Dr. Aisha Khan,Orthopedics,A,17,Bengaluru,South,Bengaluru
+D0016,Dr. Vivek Singh,Dermatology,C,2,Surat,West,Surat
+D0017,Dr. Akash Sen,Diabetology,A,11,Kolkata,East,Kolkata
+D0018,Dr. Diya Singh,Gynecology,A,9,Coimbatore,South,Coimbatore
+D0019,Dr. Harsh Das,Pulmonology,A,21,Bengaluru,South,Bengaluru
+D0020,Dr. Karan Das,Pulmonology,A,28,Vijayawada,South,Vijayawada
+D0021,Dr. Arjun Patel,Gynecology,A,6,Kolkata,East,Kolkata
+D0022,Dr. Varun Sen,General Medicine,A,25,Chennai,South,Chennai
+D0023,Dr. Riya Reddy,General Medicine,A,21,Mumbai,West,Mumbai
+D0024,Dr. Nikhil Roy,Orthopedics,A,30,Kolkata,East,Kolkata
+D0025,Dr. Tanvi Kulkarni,Diabetology,B,28,Vijayawada,South,Vijayawada
+D0026,Dr. Meera Mehta,General Medicine,B,4,Siliguri,East,Siliguri
+D0027,Dr. Diya Roy,Diabetology,B,23,Lucknow,North,Lucknow
+D0028,Dr. Pooja Singh,Diabetology,B,19,Nagpur,West,Nagpur
+D0029,Dr. Tanvi Verma,Pediatrics,A,5,Ranchi,East,Ranchi
+D0030,Dr. Simran Mishra,Orthopedics,A,9,Bengaluru,South,Bengaluru
+D0031,Dr. Mohit Chatterjee,General Medicine,A,28,Ranchi,East,Ranchi
+D0032,Dr. Gauri Rao,General Medicine,C,17,North Delhi,North,Delhi
+D0033,Dr. Tanvi Menon,Pulmonology,C,11,North Delhi,North,Delhi
+D0034,Dr. Yash Das,Neurology,C,11,Bhubaneswar,East,Bhubaneswar
+D0035,Dr. Siddharth Verma,Gynecology,B,26,Ahmedabad,West,Ahmedabad
+D0036,Dr. Mohit Kulkarni,Gynecology,B,10,Bengaluru,South,Bengaluru
+D0037,Dr. Bhavna Kulkarni,General Medicine,B,6,Nagpur,West,Nagpur
+D0038,Dr. Arjun Verma,General Medicine,C,18,Surat,West,Surat
+D0039,Dr. Anjali Reddy,Pulmonology,C,30,Ranchi,East,Ranchi
+D0040,Dr. Harsh Reddy,Orthopedics,C,7,Jaipur,North,Jaipur
+D0041,Dr. Manish Sen,Pulmonology,C,9,Kolkata,East,Kolkata
+D0042,Dr. Ayush Mehta,Neurology,B,15,Guwahati,East,Guwahati
+D0043,Dr. Dev Kapoor,Orthopedics,C,7,Kochi,South,Kochi
+D0044,Dr. Akash Desai,General Medicine,C,20,Surat,West,Surat
+D0045,Dr. Meera Kulkarni,General Medicine,B,9,Lucknow,North,Lucknow
+D0046,Dr. Farhan Rao,General Medicine,C,5,Coimbatore,South,Coimbatore
+D0047,Dr. Farhan Jain,Cardiology,A,9,Goa,West,Panaji
+D0048,Dr. Karan Shah,Diabetology,C,28,Lucknow,North,Lucknow
+D0049,Dr. Bhavna Sharma,Gastroenterology,C,29,Ahmedabad,West,Ahmedabad
+D0050,Dr. Manish Roy,General Medicine,A,16,Siliguri,East,Siliguri
+D0051,Dr. Sameer Khan,Diabetology,B,13,Mumbai,West,Mumbai
+D0052,Dr. Aditya Shah,Orthopedics,A,25,Ludhiana,North,Ludhiana
+D0053,Dr. Sameer Nair,Gastroenterology,C,7,Coimbatore,South,Coimbatore
+D0054,Dr. Deepak Mehta,General Medicine,C,20,Ludhiana,North,Ludhiana
+D0055,Dr. Anjali Gupta,Dermatology,B,21,Ranchi,East,Ranchi
+D0056,Dr. Sameer Sharma,Gynecology,C,22,Patna,East,Patna
+D0057,Dr. Meera Saxena,Orthopedics,A,8,Siliguri,East,Siliguri
+D0058,Dr. Yash Nair,Neurology,A,22,Guwahati,East,Guwahati
+D0059,Dr. Siddharth Yadav,Cardiology,B,19,Dehradun,North,Dehradun
+D0060,Dr. Alok Singh,Gynecology,A,27,Dehradun,North,Dehradun
+D0061,Dr. Varun Roy,General Medicine,B,7,Ahmedabad,West,Ahmedabad
+D0062,Dr. Alok Iyer,Gynecology,A,19,Goa,West,Panaji
+D0063,Dr. Rahul Kapoor,Orthopedics,B,26,Guwahati,East,Guwahati
+D0064,Dr. Alok Shah,Cardiology,B,10,Vijayawada,South,Vijayawada
+D0065,Dr. Sakshi Desai,Cardiology,C,23,Kochi,South,Kochi
+D0066,Dr. Riya Kulkarni,Gastroenterology,A,4,Guwahati,East,Guwahati
+D0067,Dr. Meera Rao,Orthopedics,C,22,Kochi,South,Kochi
+D0068,Dr. Ishita Agarwal,Cardiology,B,19,Surat,West,Surat
+D0069,Dr. Pranav Das,Gastroenterology,B,7,Surat,West,Surat
+D0070,Dr. Simran Shah,Pediatrics,B,3,Bengaluru,South,Bengaluru
+D0071,Dr. Gauri Chatterjee,Pulmonology,B,23,Jaipur,North,Jaipur
+D0072,Dr. Anjali Menon,Pulmonology,A,8,Vijayawada,South,Vijayawada
+D0073,Dr. Mohit Rao,Cardiology,B,16,Kochi,South,Kochi
+D0074,Dr. Manish Chatterjee,Dermatology,A,3,Vijayawada,South,Vijayawada
+D0075,Dr. Anjali Iyer,General Medicine,B,29,Bengaluru,South,Bengaluru
+D0076,Dr. Shreya Sen,Pediatrics,B,17,Kolkata,East,Kolkata
+D0077,Dr. Aditya Kulkarni,General Medicine,B,29,Ranchi,East,Ranchi
+D0078,Dr. Pranav Shah,Orthopedics,C,6,Chennai,South,Chennai
+D0079,Dr. Dev Rao,General Medicine,A,7,Nagpur,West,Nagpur
+D0080,Dr. Rahul Rao,Diabetology,C,19,Jaipur,North,Jaipur
+D0081,Dr. Gauri Roy,Dermatology,C,19,Kolkata,East,Kolkata
+D0082,Dr. Riya Iyer,Pulmonology,C,24,Guwahati,East,Guwahati
+D0083,Dr. Sana Sen,Orthopedics,C,28,Coimbatore,South,Coimbatore
+D0084,Dr. Sameer Saxena,Gynecology,A,25,Patna,East,Patna
+D0085,Dr. Sneha Das,Gynecology,B,6,Patna,East,Patna
+D0086,Dr. Anjali Mishra,Pediatrics,A,10,Bhubaneswar,East,Bhubaneswar
+D0087,Dr. Mohit Agarwal,Diabetology,C,28,Bengaluru,South,Bengaluru
+D0088,Dr. Siddharth Roy,Orthopedics,B,17,Jaipur,North,Jaipur
+D0089,Dr. Kavya Chatterjee,Pediatrics,A,27,North Delhi,North,Delhi
+D0090,Dr. Rohan Sharma,General Medicine,C,18,Ludhiana,North,Ludhiana
+D0091,Dr. Ayush Kulkarni,Diabetology,A,3,Nagpur,West,Nagpur
+D0092,Dr. Tanvi Gupta,Dermatology,B,15,Vijayawada,South,Vijayawada
+D0093,Dr. Rohan Kulkarni,Pulmonology,C,25,Nagpur,West,Nagpur
+D0094,Dr. Pooja Saxena,Orthopedics,A,20,North Delhi,North,Delhi
+D0095,Dr. Anjali Sharma,Gynecology,B,5,Dehradun,North,Dehradun
+D0096,Dr. Akash Roy,Neurology,C,8,Siliguri,East,Siliguri
+D0097,Dr. Akash Bhat,Pulmonology,A,26,Siliguri,East,Siliguri
+D0098,Dr. Kabir Saxena,General Medicine,B,30,Surat,West,Surat
+D0099,Dr. Ishita Menon,General Medicine,A,23,Bhubaneswar,East,Bhubaneswar
+D0100,Dr. Farhan Khan,Diabetology,B,4,Vijayawada,South,Vijayawada
+D0101,Dr. Rahul Roy,Dermatology,A,19,Ranchi,East,Ranchi
+D0102,Dr. Nikhil Jain,Pediatrics,C,26,Guwahati,East,Guwahati
+D0103,Dr. Pranav Khan,General Medicine,C,20,Kochi,South,Kochi
+D0104,Dr. Deepak Desai,General Medicine,A,19,Surat,West,Surat
+D0105,Dr. Yash Sen,Pediatrics,B,15,Kochi,South,Kochi
+D0106,Dr. Harsh Patel,Cardiology,B,9,Pune,West,Pune
+D0107,Dr. Dev Agarwal,Orthopedics,C,10,Ahmedabad,West,Ahmedabad
+D0108,Dr. Alok Khan,Pulmonology,B,23,Hyderabad,South,Hyderabad
+D0109,Dr. Anjali Bhat,Gastroenterology,A,4,Chennai,South,Chennai
+D0110,Dr. Ishita Saxena,Diabetology,A,4,Chennai,South,Chennai
+D0111,Dr. Aditya Desai,Neurology,C,13,Surat,West,Surat
+D0112,Dr. Gauri Gupta,General Medicine,B,24,Surat,West,Surat
+D0113,Dr. Simran Bhat,Neurology,C,21,North Delhi,North,Delhi
+D0114,Dr. Tanvi Nair,Cardiology,B,19,Hyderabad,South,Hyderabad
+D0115,Dr. Pooja Chatterjee,Pulmonology,C,17,Chennai,South,Chennai
+D0116,Dr. Neha Kulkarni,Orthopedics,A,5,Ranchi,East,Ranchi
+D0117,Dr. Sneha Verma,Diabetology,A,11,Bengaluru,South,Bengaluru
+D0118,Dr. Sakshi Nair,Diabetology,C,4,Goa,West,Panaji
+D0119,Dr. Simran Sharma,Diabetology,C,23,Chandigarh,North,Chandigarh
+D0120,Dr. Kabir Desai,General Medicine,B,23,Ludhiana,North,Ludhiana
+D0121,Dr. Alok Sharma,Cardiology,B,9,Ahmedabad,West,Ahmedabad
+D0122,Dr. Dev Mishra,Gynecology,B,10,Surat,West,Surat
+D0123,Dr. Diya Sen,General Medicine,B,11,Ahmedabad,West,Ahmedabad
+D0124,Dr. Gauri Kapoor,Dermatology,A,27,Surat,West,Surat
+D0125,Dr. Sameer Rao,Gynecology,C,16,Kolkata,East,Kolkata
+D0126,Dr. Siddharth Chatterjee,Cardiology,A,24,Lucknow,North,Lucknow
+D0127,Dr. Neha Singh,Neurology,B,15,Pune,West,Pune
+D0128,Dr. Shreya Sharma,Pediatrics,A,22,Lucknow,North,Lucknow
+D0129,Dr. Deepak Gupta,Neurology,A,17,Pune,West,Pune
+D0130,Dr. Akash Mishra,Pulmonology,B,10,Coimbatore,South,Coimbatore
+D0131,Dr. Sneha Iyer,Pulmonology,B,27,Chandigarh,North,Chandigarh
+D0132,Dr. Gauri Yadav,Cardiology,B,22,Ahmedabad,West,Ahmedabad
+D0133,Dr. Tanvi Yadav,Orthopedics,A,24,North Delhi,North,Delhi
+D0134,Dr. Aisha Nair,Gynecology,C,29,Ranchi,East,Ranchi
+D0135,Dr. Kabir Khan,Gynecology,C,9,Vijayawada,South,Vijayawada
+D0136,Dr. Nikhil Sharma,Cardiology,C,4,Dehradun,North,Dehradun
+D0137,Dr. Siddharth Iyer,Gastroenterology,A,18,Ludhiana,North,Ludhiana
+D0138,Dr. Bhavna Nair,General Medicine,B,11,Jaipur,North,Jaipur
+D0139,Dr. Kavya Agarwal,Pediatrics,B,14,Goa,West,Panaji
+D0140,Dr. Pranav Menon,Cardiology,B,8,Kolkata,East,Kolkata
+D0141,Dr. Diya Verma,Gynecology,B,13,Hyderabad,South,Hyderabad
+D0142,Dr. Sameer Desai,Pediatrics,A,13,Guwahati,East,Guwahati
+D0143,Dr. Manish Saxena,Diabetology,B,12,Ahmedabad,West,Ahmedabad
+D0144,Dr. Harsh Singh,Cardiology,A,23,Mumbai,West,Mumbai
+D0145,Dr. Dev Yadav,Pediatrics,B,19,Goa,West,Panaji
+D0146,Dr. Shreya Das,Diabetology,A,15,Ludhiana,North,Ludhiana
+D0147,Dr. Vivek Reddy,Orthopedics,A,5,Siliguri,East,Siliguri
+D0148,Dr. Gauri Nair,Pediatrics,B,18,Ludhiana,North,Ludhiana
+D0149,Dr. Karan Patel,Orthopedics,B,7,Goa,West,Panaji
+D0150,Dr. Deepak Roy,General Medicine,B,11,Bengaluru,South,Bengaluru
+D0151,Dr. Neha Jain,Pulmonology,B,14,Chandigarh,North,Chandigarh
+D0152,Dr. Alok Yadav,Cardiology,C,6,Goa,West,Panaji
+D0153,Dr. Ayush Reddy,Gynecology,B,13,Nagpur,West,Nagpur
+D0154,Dr. Aditi Shah,General Medicine,B,9,Mumbai,West,Mumbai
+D0155,Dr. Sameer Shah,Diabetology,C,26,Lucknow,North,Lucknow
+D0156,Dr. Dev Roy,General Medicine,B,26,Chandigarh,North,Chandigarh
+D0157,Dr. Farhan Das,Gynecology,C,2,North Delhi,North,Delhi
+D0158,Dr. Dev Shah,Cardiology,C,19,Goa,West,Panaji
+D0159,Dr. Pooja Menon,Pediatrics,A,20,Jaipur,North,Jaipur
+D0160,Dr. Karan Saxena,Gastroenterology,B,12,Siliguri,East,Siliguri
+D0161,Dr. Anjali Agarwal,Pediatrics,B,15,Dehradun,North,Dehradun
+D0162,Dr. Neha Khan,Gynecology,C,24,Kochi,South,Kochi
+D0163,Dr. Aditya Khan,Pediatrics,B,12,Coimbatore,South,Coimbatore
+D0164,Dr. Sameer Bhat,Gynecology,A,3,Goa,West,Panaji
+D0165,Dr. Kavya Nair,Diabetology,B,12,Guwahati,East,Guwahati
+D0166,Dr. Bhavna Verma,Dermatology,A,9,Jaipur,North,Jaipur
+D0167,Dr. Akash Kapoor,Orthopedics,C,13,Dehradun,North,Dehradun
+D0168,Dr. Anjali Rao,Orthopedics,B,8,Mumbai,West,Mumbai
+D0169,Dr. Pooja Kapoor,Pediatrics,C,6,Lucknow,North,Lucknow
+D0170,Dr. Rohan Gupta,Gynecology,C,30,Pune,West,Pune
+D0171,Dr. Sameer Patel,Gastroenterology,B,5,Pune,West,Pune
+D0172,Dr. Rahul Nair,Pulmonology,B,22,Kolkata,East,Kolkata
+D0173,Dr. Karan Gupta,Pulmonology,C,22,Pune,West,Pune
+D0174,Dr. Gauri Menon,General Medicine,C,19,Guwahati,East,Guwahati
+D0175,Dr. Farhan Roy,General Medicine,C,28,Kolkata,East,Kolkata
+D0176,Dr. Akash Kulkarni,General Medicine,A,2,Guwahati,East,Guwahati
+D0177,Dr. Pranav Nair,Cardiology,B,10,Jaipur,North,Jaipur
+D0178,Dr. Sameer Verma,Cardiology,A,7,Siliguri,East,Siliguri
+D0179,Dr. Diya Shah,Dermatology,C,18,Hyderabad,South,Hyderabad
+D0180,Dr. Manish Reddy,Pulmonology,B,20,Siliguri,East,Siliguri
+D0181,Dr. Aditi Iyer,Gynecology,B,28,Ahmedabad,West,Ahmedabad
+D0182,Dr. Mohit Shah,Neurology,A,13,Ranchi,East,Ranchi
+D0183,Dr. Kabir Singh,Cardiology,B,8,Hyderabad,South,Hyderabad
+D0184,Dr. Ayush Patel,Diabetology,B,28,Chandigarh,North,Chandigarh
+D0185,Dr. Sana Reddy,Diabetology,A,21,Surat,West,Surat
+D0186,Dr. Aditi Mehta,Gynecology,A,24,Lucknow,North,Lucknow
+D0187,Dr. Deepak Rao,Diabetology,C,14,Ranchi,East,Ranchi
+D0188,Dr. Riya Bhat,Orthopedics,C,14,Pune,West,Pune
+D0189,Dr. Riya Mishra,Gynecology,A,13,Dehradun,North,Dehradun
+D0190,Dr. Bhavna Rao,Gynecology,B,23,Chennai,South,Chennai
+D0191,Dr. Ayush Verma,General Medicine,C,8,Nagpur,West,Nagpur
+D0192,Dr. Alok Rao,Cardiology,B,30,Jaipur,North,Jaipur
+D0193,Dr. Alok Mehta,Diabetology,B,7,Bhubaneswar,East,Bhubaneswar
+D0194,Dr. Aditya Das,Cardiology,B,15,Patna,East,Patna
+D0195,Dr. Aditi Khan,Diabetology,B,11,Vijayawada,South,Vijayawada
+D0196,Dr. Sneha Sen,Orthopedics,A,20,Hyderabad,South,Hyderabad
+D0197,Dr. Karan Chatterjee,Pediatrics,C,21,Surat,West,Surat
+D0198,Dr. Farhan Sharma,Orthopedics,A,28,Chennai,South,Chennai
+D0199,Dr. Meera Jain,Neurology,A,24,Bengaluru,South,Bengaluru
+D0200,Dr. Anjali Verma,Diabetology,C,9,Lucknow,North,Lucknow
+D0201,Dr. Rahul Saxena,Dermatology,C,7,Chandigarh,North,Chandigarh
+D0202,Dr. Meera Shah,Neurology,C,27,Mumbai,West,Mumbai
+D0203,Dr. Dev Khan,Pediatrics,B,16,Nagpur,West,Nagpur
+D0204,Dr. Vivek Mehta,Gynecology,B,4,Lucknow,North,Lucknow
+D0205,Dr. Simran Singh,General Medicine,B,25,Jaipur,North,Jaipur
+D0206,Dr. Karan Sharma,Cardiology,B,20,Patna,East,Patna
+D0207,Dr. Aditya Reddy,Diabetology,B,2,Ahmedabad,West,Ahmedabad
+D0208,Dr. Siddharth Nair,Pulmonology,B,24,Hyderabad,South,Hyderabad
+D0209,Dr. Manish Verma,Gynecology,B,19,Bengaluru,South,Bengaluru
+D0210,Dr. Gauri Iyer,General Medicine,C,19,Vijayawada,South,Vijayawada
+D0211,Dr. Sakshi Gupta,Dermatology,C,27,Vijayawada,South,Vijayawada
+D0212,Dr. Bhavna Singh,Orthopedics,A,16,Pune,West,Pune
+D0213,Dr. Vivek Bhat,Diabetology,B,15,Patna,East,Patna
+D0214,Dr. Pooja Sen,General Medicine,A,19,Ahmedabad,West,Ahmedabad
+D0215,Dr. Ayush Saxena,Neurology,B,7,Patna,East,Patna
+D0216,Dr. Neha Rao,Neurology,B,6,Surat,West,Surat
+D0217,Dr. Neha Kapoor,Pulmonology,A,26,Jaipur,North,Jaipur
+D0218,Dr. Alok Das,Diabetology,C,8,Kolkata,East,Kolkata
+D0219,Dr. Tanvi Bhat,Gastroenterology,B,16,North Delhi,North,Delhi
+D0220,Dr. Arjun Mishra,Diabetology,C,9,Kolkata,East,Kolkata
+D0221,Dr. Rahul Patel,Gynecology,A,8,Chandigarh,North,Chandigarh
+D0222,Dr. Rahul Kulkarni,Diabetology,A,19,Ludhiana,North,Ludhiana
+D0223,Dr. Kabir Mehta,Diabetology,B,25,Hyderabad,South,Hyderabad
+D0224,Dr. Deepak Jain,Pulmonology,A,14,Ranchi,East,Ranchi
+D0225,Dr. Kavya Mehta,Orthopedics,A,6,Surat,West,Surat
+D0226,Dr. Alok Patel,Pulmonology,C,9,Jaipur,North,Jaipur
+D0227,Dr. Rohan Singh,Pulmonology,A,6,Dehradun,North,Dehradun
+D0228,Dr. Pranav Rao,Gynecology,A,27,Guwahati,East,Guwahati
+D0229,Dr. Sakshi Chatterjee,Pulmonology,B,11,Vijayawada,South,Vijayawada
+D0230,Dr. Ishita Rao,Pulmonology,B,12,Jaipur,North,Jaipur
+D0231,Dr. Kavya Das,Pulmonology,B,4,Surat,West,Surat
+D0232,Dr. Sneha Roy,Cardiology,B,14,Mumbai,West,Mumbai
+D0233,Dr. Yash Verma,Orthopedics,C,28,Ludhiana,North,Ludhiana
+D0234,Dr. Sakshi Sharma,Diabetology,A,13,Patna,East,Patna
+D0235,Dr. Shreya Mishra,Neurology,B,20,Hyderabad,South,Hyderabad
+D0236,Dr. Farhan Verma,Cardiology,B,7,Ludhiana,North,Ludhiana
+D0237,Dr. Shreya Nair,Gynecology,C,6,Kochi,South,Kochi
+D0238,Dr. Rahul Shah,Pulmonology,B,23,Surat,West,Surat
+D0239,Dr. Nikhil Shah,Pediatrics,B,3,Chandigarh,North,Chandigarh
+D0240,Dr. Varun Shah,Pulmonology,A,15,Nagpur,West,Nagpur
+D0241,Dr. Kabir Mishra,Cardiology,A,11,Ludhiana,North,Ludhiana
+D0242,Dr. Bhavna Agarwal,Dermatology,A,2,Dehradun,North,Dehradun
+D0243,Dr. Aditi Agarwal,Neurology,C,17,Guwahati,East,Guwahati
+D0244,Dr. Sakshi Shah,Dermatology,B,29,Vijayawada,South,Vijayawada
+D0245,Dr. Arjun Agarwal,Pulmonology,C,4,Lucknow,North,Lucknow
+D0246,Dr. Aditya Chatterjee,Neurology,A,25,Patna,East,Patna
+D0247,Dr. Simran Sen,Pediatrics,C,17,Chennai,South,Chennai
+D0248,Dr. Sana Agarwal,Neurology,C,22,Patna,East,Patna
+D0249,Dr. Simran Desai,General Medicine,A,4,Vijayawada,South,Vijayawada
+D0250,Dr. Karan Yadav,Neurology,A,27,Ahmedabad,West,Ahmedabad
+D0251,Dr. Nikhil Kulkarni,Neurology,A,2,Bengaluru,South,Bengaluru
+D0252,Dr. Akash Chatterjee,Gynecology,C,28,Bengaluru,South,Bengaluru
+D0253,Dr. Vivek Khan,General Medicine,A,21,Vijayawada,South,Vijayawada
+D0254,Dr. Yash Desai,Pulmonology,B,11,Dehradun,North,Dehradun
+D0255,Dr. Dev Nair,Dermatology,B,2,Pune,West,Pune
+D0256,Dr. Siddharth Desai,Pulmonology,C,19,Dehradun,North,Dehradun
+D0257,Dr. Akash Singh,Gastroenterology,B,4,Pune,West,Pune
+D0258,Dr. Aisha Saxena,Pulmonology,B,19,Lucknow,North,Lucknow
+D0259,Dr. Sneha Desai,Diabetology,C,24,North Delhi,North,Delhi
+D0260,Dr. Aisha Yadav,Gastroenterology,A,9,Ranchi,East,Ranchi
+D0261,Dr. Pranav Verma,Diabetology,C,8,Chandigarh,North,Chandigarh
+D0262,Dr. Vivek Agarwal,Diabetology,A,8,Guwahati,East,Guwahati
+D0263,Dr. Shreya Yadav,Neurology,B,8,North Delhi,North,Delhi
+D0264,Dr. Simran Das,Gastroenterology,C,5,Kolkata,East,Kolkata
+D0265,Dr. Rohan Iyer,Pediatrics,B,9,Pune,West,Pune
+D0266,Dr. Akash Nair,General Medicine,B,21,Bengaluru,South,Bengaluru
+D0267,Dr. Siddharth Kulkarni,Diabetology,A,10,Mumbai,West,Mumbai
+D0268,Dr. Deepak Yadav,Gynecology,B,24,Goa,West,Panaji
+D0269,Dr. Harsh Desai,Diabetology,B,25,Nagpur,West,Nagpur
+D0270,Dr. Shreya Menon,Diabetology,B,24,Bengaluru,South,Bengaluru
+D0271,Dr. Arjun Kapoor,General Medicine,B,17,Surat,West,Surat
+D0272,Dr. Deepak Kulkarni,Orthopedics,B,11,Bengaluru,South,Bengaluru
+D0273,Dr. Shreya Shah,Pediatrics,B,28,Bhubaneswar,East,Bhubaneswar
+D0274,Dr. Riya Singh,Dermatology,A,7,Nagpur,West,Nagpur
+D0275,Dr. Nikhil Agarwal,Gastroenterology,B,15,Ahmedabad,West,Ahmedabad
+D0276,Dr. Sana Kulkarni,Diabetology,A,15,Lucknow,North,Lucknow
+D0277,Dr. Kabir Gupta,General Medicine,C,23,Ahmedabad,West,Ahmedabad
+D0278,Dr. Siddharth Saxena,Pulmonology,B,17,Lucknow,North,Lucknow
+D0279,Dr. Harsh Jain,Diabetology,A,25,Ludhiana,North,Ludhiana
+D0280,Dr. Yash Shah,General Medicine,B,28,Ranchi,East,Ranchi
+D0281,Dr. Aisha Kulkarni,General Medicine,C,13,Jaipur,North,Jaipur
+D0282,Dr. Sneha Reddy,Diabetology,A,27,Goa,West,Panaji
+D0283,Dr. Sakshi Roy,Orthopedics,A,6,Patna,East,Patna
+D0284,Dr. Harsh Verma,Gastroenterology,A,28,Ranchi,East,Ranchi
+D0285,Dr. Sana Menon,Cardiology,A,7,Lucknow,North,Lucknow
+D0286,Dr. Vivek Desai,Pulmonology,C,26,Lucknow,North,Lucknow
+D0287,Dr. Aditya Roy,Dermatology,C,13,Ahmedabad,West,Ahmedabad
+D0288,Dr. Arjun Jain,Gastroenterology,A,29,Chennai,South,Chennai
+D0289,Dr. Tanvi Das,Dermatology,C,5,Siliguri,East,Siliguri
+D0290,Dr. Shreya Khan,Pulmonology,A,15,Ludhiana,North,Ludhiana
+D0291,Dr. Anjali Singh,Dermatology,B,28,Lucknow,North,Lucknow
+D0292,Dr. Bhavna Mehta,General Medicine,C,3,Mumbai,West,Mumbai
+D0293,Dr. Bhavna Gupta,General Medicine,B,9,Patna,East,Patna
+D0294,Dr. Pooja Gupta,Diabetology,A,4,North Delhi,North,Delhi
+D0295,Dr. Aditi Menon,Pulmonology,B,11,Surat,West,Surat
+D0296,Dr. Aisha Desai,General Medicine,C,13,Jaipur,North,Jaipur
+D0297,Dr. Siddharth Jain,General Medicine,A,19,Lucknow,North,Lucknow
+D0298,Dr. Anjali Das,Gastroenterology,A,9,Ranchi,East,Ranchi
+D0299,Dr. Nikhil Menon,General Medicine,A,6,North Delhi,North,Delhi
+D0300,Dr. Diya Saxena,General Medicine,B,6,Pune,West,Pune
+D0301,Dr. Meera Verma,Diabetology,B,29,Guwahati,East,Guwahati
+D0302,Dr. Kabir Das,Pulmonology,C,29,Hyderabad,South,Hyderabad
+D0303,Dr. Sneha Mishra,General Medicine,C,8,Chandigarh,North,Chandigarh
+D0304,Dr. Sana Gupta,General Medicine,C,7,Goa,West,Panaji
+D0305,Dr. Diya Chatterjee,General Medicine,C,3,Siliguri,East,Siliguri
+D0306,Dr. Farhan Nair,Dermatology,A,29,Surat,West,Surat
+D0307,Dr. Bhavna Reddy,Gynecology,B,22,Bengaluru,South,Bengaluru
+D0308,Dr. Kabir Kulkarni,Pulmonology,B,24,Bengaluru,South,Bengaluru
+D0309,Dr. Mohit Desai,Neurology,B,10,Kochi,South,Kochi
+D0310,Dr. Kabir Roy,Pediatrics,C,20,Ludhiana,North,Ludhiana
+D0311,Dr. Yash Menon,Gynecology,B,3,Patna,East,Patna
+D0312,Dr. Shreya Reddy,Neurology,C,21,Siliguri,East,Siliguri
+D0313,Dr. Kavya Menon,Pediatrics,B,18,Lucknow,North,Lucknow
+D0314,Dr. Diya Mishra,Pediatrics,B,11,Bhubaneswar,East,Bhubaneswar
+D0315,Dr. Siddharth Bhat,Dermatology,B,22,Bhubaneswar,East,Bhubaneswar
+D0316,Dr. Meera Menon,Pulmonology,A,20,Vijayawada,South,Vijayawada
+D0317,Dr. Manish Patel,Cardiology,A,14,Ahmedabad,West,Ahmedabad
+D0318,Dr. Sneha Nair,Cardiology,B,7,Goa,West,Panaji
+D0319,Dr. Shreya Bhat,Pulmonology,A,2,Patna,East,Patna
+D0320,Dr. Simran Reddy,Pulmonology,C,29,Lucknow,North,Lucknow
+D0321,Dr. Sana Rao,General Medicine,A,10,Bhubaneswar,East,Bhubaneswar
+D0322,Dr. Nikhil Rao,Orthopedics,A,10,Ranchi,East,Ranchi
+D0323,Dr. Sameer Yadav,Orthopedics,C,21,Coimbatore,South,Coimbatore
+D0324,Dr. Farhan Agarwal,Pediatrics,A,9,Ahmedabad,West,Ahmedabad
+D0325,Dr. Ayush Sharma,Diabetology,C,12,Chennai,South,Chennai
+D0326,Dr. Bhavna Khan,Diabetology,C,22,Chandigarh,North,Chandigarh
+D0327,Dr. Aditya Sharma,Dermatology,A,19,Ranchi,East,Ranchi
+D0328,Dr. Tanvi Singh,Pediatrics,B,21,Ahmedabad,West,Ahmedabad
+D0329,Dr. Yash Saxena,Gynecology,B,2,Chandigarh,North,Chandigarh
+D0330,Dr. Tanvi Shah,Pediatrics,C,15,Bhubaneswar,East,Bhubaneswar
+D0331,Dr. Rohan Saxena,Pediatrics,C,15,Kochi,South,Kochi
+D0332,Dr. Aditi Nair,General Medicine,C,20,Hyderabad,South,Hyderabad
+D0333,Dr. Siddharth Singh,General Medicine,B,6,Chandigarh,North,Chandigarh
+D0334,Dr. Riya Sen,General Medicine,B,6,Kolkata,East,Kolkata
+D0335,Dr. Sneha Saxena,Neurology,B,24,Kochi,South,Kochi
+D0336,Dr. Kabir Reddy,Gynecology,C,21,Bhubaneswar,East,Bhubaneswar
+D0337,Dr. Arjun Sen,General Medicine,B,25,Bhubaneswar,East,Bhubaneswar
+D0338,Dr. Karan Menon,Orthopedics,B,9,Dehradun,North,Dehradun
+D0339,Dr. Arjun Reddy,General Medicine,B,30,Dehradun,North,Dehradun
+D0340,Dr. Rahul Das,Diabetology,C,9,Ranchi,East,Ranchi
+D0341,Dr. Neha Shah,Diabetology,C,20,Bengaluru,South,Bengaluru
+D0342,Dr. Kavya Kulkarni,Cardiology,A,6,Nagpur,West,Nagpur
+D0343,Dr. Yash Reddy,Gynecology,A,28,Mumbai,West,Mumbai
+D0344,Dr. Neha Agarwal,General Medicine,B,11,Kochi,South,Kochi
+D0345,Dr. Riya Shah,Pediatrics,B,25,Kolkata,East,Kolkata
+D0346,Dr. Arjun Das,Gastroenterology,B,11,North Delhi,North,Delhi
+D0347,Dr. Sana Chatterjee,Diabetology,A,24,Chennai,South,Chennai
+D0348,Dr. Kabir Bhat,Diabetology,B,15,Siliguri,East,Siliguri
+D0349,Dr. Aditya Verma,Dermatology,B,3,Mumbai,West,Mumbai
+D0350,Dr. Riya Chatterjee,General Medicine,B,7,Mumbai,West,Mumbai
+D0351,Dr. Harsh Khan,Pediatrics,B,21,Guwahati,East,Guwahati
+D0352,Dr. Shreya Rao,Diabetology,C,7,Chandigarh,North,Chandigarh
+D0353,Dr. Aditi Kapoor,Neurology,B,9,Surat,West,Surat
+D0354,Dr. Neha Desai,Dermatology,C,17,Nagpur,West,Nagpur
+D0355,Dr. Sneha Rao,General Medicine,B,9,Bhubaneswar,East,Bhubaneswar
+D0356,Dr. Tanvi Saxena,General Medicine,B,5,Lucknow,North,Lucknow
+D0357,Dr. Diya Menon,Gynecology,B,20,Nagpur,West,Nagpur
+D0358,Dr. Harsh Bhat,General Medicine,A,21,Lucknow,North,Lucknow
+D0359,Dr. Ayush Rao,Pulmonology,A,23,Kolkata,East,Kolkata
+D0360,Dr. Aisha Kapoor,Pulmonology,B,29,Kochi,South,Kochi
+D0361,Dr. Gauri Singh,General Medicine,C,5,Goa,West,Panaji
+D0362,Dr. Diya Das,Dermatology,B,14,Surat,West,Surat
+D0363,Dr. Mohit Kapoor,Dermatology,A,8,Lucknow,North,Lucknow
+D0364,Dr. Shreya Singh,General Medicine,B,28,Ranchi,East,Ranchi
+D0365,Dr. Mohit Gupta,Pediatrics,A,17,Kochi,South,Kochi
+D0366,Dr. Rahul Desai,Diabetology,C,4,Pune,West,Pune
+D0367,Dr. Tanvi Reddy,Cardiology,C,22,Surat,West,Surat
+D0368,Dr. Nikhil Gupta,Orthopedics,B,3,Vijayawada,South,Vijayawada
+D0369,Dr. Rohan Sen,Gynecology,B,9,Vijayawada,South,Vijayawada
+D0370,Dr. Deepak Das,Cardiology,B,22,Goa,West,Panaji
+D0371,Dr. Sana Mishra,Diabetology,B,16,Pune,West,Pune
+D0372,Dr. Yash Iyer,Orthopedics,C,24,Kochi,South,Kochi
+D0373,Dr. Sameer Menon,Dermatology,C,18,Kochi,South,Kochi
+D0374,Dr. Neha Sen,Cardiology,B,26,Hyderabad,South,Hyderabad
+D0375,Dr. Kavya Yadav,General Medicine,B,18,Chandigarh,North,Chandigarh
+D0376,Dr. Aditi Sen,Gastroenterology,A,3,Goa,West,Panaji
+D0377,Dr. Rahul Yadav,General Medicine,A,4,Hyderabad,South,Hyderabad
+D0378,Dr. Dev Mehta,Diabetology,A,24,Ranchi,East,Ranchi
+D0379,Dr. Harsh Mishra,Diabetology,B,3,Bengaluru,South,Bengaluru
+D0380,Dr. Shreya Chatterjee,General Medicine,C,12,Ahmedabad,West,Ahmedabad
+D0381,Dr. Mohit Reddy,Pulmonology,B,2,Chennai,South,Chennai
+D0382,Dr. Sana Saxena,Pediatrics,A,10,Ludhiana,North,Ludhiana
+D0383,Dr. Diya Reddy,Neurology,A,19,Jaipur,North,Jaipur
+D0384,Dr. Ishita Singh,Gastroenterology,B,7,Coimbatore,South,Coimbatore
+D0385,Dr. Ayush Bhat,Gynecology,C,15,Siliguri,East,Siliguri
+D0386,Dr. Anjali Kulkarni,General Medicine,B,30,Patna,East,Patna
+D0387,Dr. Kabir Kapoor,General Medicine,C,4,Hyderabad,South,Hyderabad
+D0388,Dr. Ishita Das,Gynecology,C,3,North Delhi,North,Delhi
+D0389,Dr. Ayush Sen,General Medicine,A,9,Siliguri,East,Siliguri
+D0390,Dr. Tanvi Sen,Gastroenterology,B,25,Nagpur,West,Nagpur
+D0391,Dr. Rahul Menon,Gastroenterology,C,13,Mumbai,West,Mumbai
+D0392,Dr. Alok Sen,Cardiology,B,20,Guwahati,East,Guwahati
+D0393,Dr. Vivek Rao,Pulmonology,A,2,Vijayawada,South,Vijayawada
+D0394,Dr. Aisha Jain,Diabetology,C,23,Vijayawada,South,Vijayawada
+D0395,Dr. Rohan Patel,Diabetology,C,3,Mumbai,West,Mumbai
+D0396,Dr. Varun Menon,Pulmonology,B,22,Siliguri,East,Siliguri
+D0397,Dr. Rohan Reddy,General Medicine,B,6,Nagpur,West,Nagpur
+D0398,Dr. Siddharth Sharma,Dermatology,A,26,Bengaluru,South,Bengaluru
+D0399,Dr. Rohan Bhat,Pediatrics,C,10,Kolkata,East,Kolkata
+D0400,Dr. Rohan Das,Dermatology,B,7,Kochi,South,Kochi
+D0401,Dr. Sakshi Mehta,General Medicine,A,11,Ludhiana,North,Ludhiana
+D0402,Dr. Aisha Menon,General Medicine,B,2,Pune,West,Pune
+D0403,Dr. Deepak Agarwal,General Medicine,C,6,Ahmedabad,West,Ahmedabad
+D0404,Dr. Sneha Mehta,Diabetology,C,19,Ranchi,East,Ranchi
+D0405,Dr. Sakshi Jain,Gynecology,A,10,Vijayawada,South,Vijayawada
+D0406,Dr. Nikhil Yadav,General Medicine,A,12,Ahmedabad,West,Ahmedabad
+D0407,Dr. Akash Jain,Diabetology,C,25,Vijayawada,South,Vijayawada
+D0408,Dr. Yash Agarwal,Pediatrics,C,5,Vijayawada,South,Vijayawada
+D0409,Dr. Aditya Nair,General Medicine,B,13,Surat,West,Surat
+D0410,Dr. Sana Yadav,Cardiology,B,7,Surat,West,Surat
+D0411,Dr. Pooja Nair,Diabetology,B,16,Guwahati,East,Guwahati
+D0412,Dr. Riya Gupta,Neurology,B,11,Chennai,South,Chennai
+D0413,Dr. Simran Roy,Dermatology,A,3,Lucknow,North,Lucknow
+D0414,Dr. Pooja Das,Diabetology,A,4,Vijayawada,South,Vijayawada
+D0415,Dr. Mohit Mehta,Pediatrics,A,26,Hyderabad,South,Hyderabad
+D0416,Dr. Pranav Roy,Pediatrics,C,3,Bengaluru,South,Bengaluru
+D0417,Dr. Anjali Chatterjee,Pediatrics,A,24,Vijayawada,South,Vijayawada
+D0418,Dr. Aisha Sen,Diabetology,A,28,Guwahati,East,Guwahati
+D0419,Dr. Anjali Kapoor,Cardiology,B,15,Pune,West,Pune
+D0420,Dr. Alok Reddy,Pediatrics,A,11,Nagpur,West,Nagpur
+D0421,Dr. Aditya Sen,General Medicine,A,24,Ludhiana,North,Ludhiana
+D0422,Dr. Nikhil Das,Neurology,B,30,Kochi,South,Kochi
+D0423,Dr. Ayush Chatterjee,Gastroenterology,B,5,Surat,West,Surat
+D0424,Dr. Aisha Bhat,Diabetology,B,29,Ahmedabad,West,Ahmedabad
+D0425,Dr. Sakshi Das,Dermatology,C,29,Coimbatore,South,Coimbatore
+D0426,Dr. Aditya Jain,Gynecology,A,6,Surat,West,Surat
+D0427,Dr. Yash Jain,Gastroenterology,C,3,Goa,West,Panaji
+D0428,Dr. Nikhil Mehta,Pulmonology,C,22,Nagpur,West,Nagpur
+D0429,Dr. Aditya Agarwal,Pediatrics,C,4,Mumbai,West,Mumbai
+D0430,Dr. Ishita Yadav,Orthopedics,B,19,Lucknow,North,Lucknow
+D0431,Dr. Varun Verma,Gastroenterology,B,3,Bhubaneswar,East,Bhubaneswar
+D0432,Dr. Sana Mehta,Dermatology,B,22,Jaipur,North,Jaipur
+D0433,Dr. Harsh Kulkarni,Gastroenterology,B,8,Pune,West,Pune
+D0434,Dr. Kabir Patel,General Medicine,A,4,Coimbatore,South,Coimbatore
+D0435,Dr. Sameer Gupta,Diabetology,C,3,Lucknow,North,Lucknow
+D0436,Dr. Riya Das,General Medicine,B,7,Kochi,South,Kochi
+D0437,Dr. Arjun Menon,Pulmonology,C,17,Vijayawada,South,Vijayawada
+D0438,Dr. Mohit Saxena,Pulmonology,B,4,Kochi,South,Kochi
+D0439,Dr. Ishita Khan,Orthopedics,A,25,Pune,West,Pune
+D0440,Dr. Nikhil Nair,General Medicine,B,19,North Delhi,North,Delhi
+D0441,Dr. Arjun Rao,Dermatology,B,10,Guwahati,East,Guwahati
+D0442,Dr. Deepak Verma,Pediatrics,B,30,Pune,West,Pune
+D0443,Dr. Sakshi Saxena,General Medicine,B,21,Bhubaneswar,East,Bhubaneswar
+D0444,Dr. Anjali Nair,Gastroenterology,A,21,Ludhiana,North,Ludhiana
+D0445,Dr. Sana Desai,Neurology,B,7,Lucknow,North,Lucknow
+D0446,Dr. Simran Rao,Orthopedics,B,22,Kolkata,East,Kolkata
+D0447,Dr. Rohan Roy,Diabetology,C,18,Ranchi,East,Ranchi
+D0448,Dr. Meera Sharma,Dermatology,A,30,Patna,East,Patna
+D0449,Dr. Pranav Bhat,Gynecology,B,15,Kolkata,East,Kolkata
+D0450,Dr. Bhavna Roy,Gastroenterology,B,21,Dehradun,North,Dehradun
+D0451,Dr. Riya Nair,Pediatrics,B,11,Guwahati,East,Guwahati
+D0452,Dr. Sakshi Reddy,Gynecology,B,3,Coimbatore,South,Coimbatore
+D0453,Dr. Gauri Mishra,General Medicine,B,5,Ludhiana,North,Ludhiana
+D0454,Dr. Arjun Roy,Neurology,C,27,Lucknow,North,Lucknow
+D0455,Dr. Yash Sharma,Pulmonology,B,23,Patna,East,Patna
+D0456,Dr. Sana Singh,Gynecology,B,12,Mumbai,West,Mumbai
+D0457,Dr. Anjali Yadav,Cardiology,A,22,Kolkata,East,Kolkata
+D0458,Dr. Sakshi Verma,General Medicine,A,2,Lucknow,North,Lucknow
+D0459,Dr. Tanvi Mehta,Pediatrics,B,3,Mumbai,West,Mumbai
+D0460,Dr. Sneha Shah,General Medicine,A,16,Mumbai,West,Mumbai
+D0461,Dr. Ishita Kulkarni,Dermatology,B,20,Mumbai,West,Mumbai
+D0462,Dr. Sana Roy,General Medicine,B,29,Coimbatore,South,Coimbatore
+D0463,Dr. Bhavna Das,Gynecology,C,24,Guwahati,East,Guwahati
+D0464,Dr. Simran Khan,Pediatrics,B,9,Guwahati,East,Guwahati
+D0465,Dr. Aditi Das,General Medicine,B,25,Vijayawada,South,Vijayawada
+D0466,Dr. Neha Menon,Dermatology,B,16,Ludhiana,North,Ludhiana
+D0467,Dr. Riya Sharma,General Medicine,A,25,Siliguri,East,Siliguri
+D0468,Dr. Sameer Jain,Neurology,A,7,Chennai,South,Chennai
+D0469,Dr. Gauri Saxena,Neurology,B,2,Chennai,South,Chennai
+D0470,Dr. Varun Desai,Dermatology,C,3,Coimbatore,South,Coimbatore
+D0471,Dr. Kabir Iyer,Cardiology,A,30,Kolkata,East,Kolkata
+D0472,Dr. Varun Yadav,Diabetology,B,4,Ranchi,East,Ranchi
+D0473,Dr. Gauri Jain,Gastroenterology,C,29,Chennai,South,Chennai
+D0474,Dr. Deepak Sharma,Orthopedics,C,23,Hyderabad,South,Hyderabad
+D0475,Dr. Anjali Patel,Pulmonology,B,6,Vijayawada,South,Vijayawada
+D0476,Dr. Mohit Menon,Cardiology,B,27,Mumbai,West,Mumbai
+D0477,Dr. Kavya Sen,General Medicine,B,6,Pune,West,Pune
+D0478,Dr. Sakshi Bhat,Pediatrics,C,6,Kochi,South,Kochi
+D0479,Dr. Akash Menon,Cardiology,A,18,Chandigarh,North,Chandigarh
+D0480,Dr. Kavya Bhat,General Medicine,C,10,Pune,West,Pune
+D0481,Dr. Riya Jain,Gynecology,A,10,Vijayawada,South,Vijayawada
+D0482,Dr. Kabir Yadav,Cardiology,C,7,Siliguri,East,Siliguri
+D0483,Dr. Alok Desai,Gastroenterology,A,19,Bengaluru,South,Bengaluru
+D0484,Dr. Ishita Nair,General Medicine,A,2,Surat,West,Surat
+D0485,Dr. Gauri Agarwal,Pediatrics,A,9,Nagpur,West,Nagpur
+D0486,Dr. Aisha Rao,Gastroenterology,B,18,Coimbatore,South,Coimbatore
+D0487,Dr. Nikhil Patel,Pediatrics,B,16,Chennai,South,Chennai
+D0488,Dr. Mohit Singh,Diabetology,A,22,North Delhi,North,Delhi
+D0489,Dr. Rohan Nair,Orthopedics,B,8,Bengaluru,South,Bengaluru
+D0490,Dr. Shreya Jain,Dermatology,B,20,Surat,West,Surat
+D0491,Dr. Sakshi Rao,General Medicine,C,24,Coimbatore,South,Coimbatore
+D0492,Dr. Sneha Jain,General Medicine,C,13,Guwahati,East,Guwahati
+D0493,Dr. Meera Yadav,Cardiology,B,9,Siliguri,East,Siliguri
+D0494,Dr. Ayush Menon,Gynecology,A,18,Hyderabad,South,Hyderabad
+D0495,Dr. Varun Nair,Gastroenterology,B,18,Ahmedabad,West,Ahmedabad
+D0496,Dr. Nikhil Khan,Neurology,C,4,Nagpur,West,Nagpur
+D0497,Dr. Simran Saxena,Gastroenterology,A,18,Ludhiana,North,Ludhiana
+D0498,Dr. Aisha Iyer,Orthopedics,B,6,Ranchi,East,Ranchi
+D0499,Dr. Karan Sen,Pulmonology,C,18,Patna,East,Patna
+D0500,Dr. Pranav Agarwal,Pulmonology,C,29,Patna,East,Patna
+D0501,Dr. Sameer Das,Neurology,B,17,Pune,West,Pune
+D0502,Dr. Dev Bhat,Diabetology,B,24,Pune,West,Pune
+D0503,Dr. Ishita Kapoor,Pediatrics,B,10,Patna,East,Patna
+D0504,Dr. Sameer Roy,Dermatology,C,28,Chennai,South,Chennai
+D0505,Dr. Varun Das,General Medicine,A,25,Coimbatore,South,Coimbatore
+D0506,Dr. Mohit Patel,Orthopedics,A,28,Goa,West,Panaji
+D0507,Dr. Neha Das,Diabetology,B,23,Nagpur,West,Nagpur
+D0508,Dr. Karan Reddy,Gynecology,A,20,Kochi,South,Kochi
+D0509,Dr. Vivek Kulkarni,Pediatrics,B,17,Bhubaneswar,East,Bhubaneswar
+D0510,Dr. Yash Patel,Gynecology,B,28,Ahmedabad,West,Ahmedabad
+D0511,Dr. Nikhil Sen,General Medicine,C,26,Bhubaneswar,East,Bhubaneswar
+D0512,Dr. Vivek Saxena,Diabetology,C,14,Dehradun,North,Dehradun
+D0513,Dr. Deepak Bhat,Diabetology,B,4,Surat,West,Surat
+D0514,Dr. Dev Sen,Cardiology,C,2,Guwahati,East,Guwahati
+D0515,Dr. Yash Yadav,Diabetology,A,8,Ranchi,East,Ranchi
+D0516,Dr. Pooja Mehta,Cardiology,B,3,Ranchi,East,Ranchi
+D0517,Dr. Varun Kapoor,Gynecology,A,8,Pune,West,Pune
+D0518,Dr. Diya Jain,Cardiology,C,5,Patna,East,Patna
+D0519,Dr. Meera Roy,Diabetology,C,30,Ranchi,East,Ranchi
+D0520,Dr. Arjun Sharma,Dermatology,C,4,Siliguri,East,Siliguri
+D0521,Dr. Manish Sharma,Orthopedics,C,20,North Delhi,North,Delhi
+D0522,Dr. Simran Agarwal,Dermatology,C,12,Vijayawada,South,Vijayawada
+D0523,Dr. Harsh Chatterjee,Neurology,A,7,Siliguri,East,Siliguri
+D0524,Dr. Bhavna Shah,Pediatrics,C,22,Kolkata,East,Kolkata
+D0525,Dr. Gauri Patel,Neurology,B,30,Dehradun,North,Dehradun
+D0526,Dr. Akash Iyer,Orthopedics,B,24,Kolkata,East,Kolkata
+D0527,Dr. Vivek Patel,Gastroenterology,B,30,Jaipur,North,Jaipur
+D0528,Dr. Neha Saxena,Pulmonology,B,19,Goa,West,Panaji
+D0529,Dr. Rahul Sharma,General Medicine,B,21,Kochi,South,Kochi
+D0530,Dr. Mohit Mishra,Pulmonology,A,6,Nagpur,West,Nagpur
+D0531,Dr. Sneha Kapoor,Diabetology,A,26,Coimbatore,South,Coimbatore
+D0532,Dr. Sameer Chatterjee,Dermatology,B,23,Dehradun,North,Dehradun
+D0533,Dr. Dev Sharma,General Medicine,C,9,Hyderabad,South,Hyderabad
+D0534,Dr. Meera Chatterjee,Diabetology,B,12,Kochi,South,Kochi
+D0535,Dr. Kabir Sharma,General Medicine,B,19,Kochi,South,Kochi
+D0536,Dr. Arjun Desai,Pediatrics,B,2,Mumbai,West,Mumbai
+D0537,Dr. Aisha Sharma,General Medicine,B,25,Pune,West,Pune
+D0538,Dr. Sana Bhat,Gastroenterology,A,10,Mumbai,West,Mumbai
+D0539,Dr. Pranav Iyer,Pediatrics,C,4,Goa,West,Panaji
+D0540,Dr. Yash Kulkarni,Cardiology,A,11,Hyderabad,South,Hyderabad
+D0541,Dr. Ayush Roy,Dermatology,C,26,Ahmedabad,West,Ahmedabad
+D0542,Dr. Sameer Sen,General Medicine,C,9,Surat,West,Surat
+D0543,Dr. Manish Singh,Diabetology,B,17,Mumbai,West,Mumbai
+D0544,Dr. Sameer Reddy,Gastroenterology,C,25,Dehradun,North,Dehradun
+D0545,Dr. Yash Rao,Pediatrics,B,2,Kochi,South,Kochi
+D0546,Dr. Diya Khan,General Medicine,C,24,Bhubaneswar,East,Bhubaneswar
+D0547,Dr. Kabir Jain,Orthopedics,C,10,Mumbai,West,Mumbai
+D0548,Dr. Alok Nair,General Medicine,C,22,Patna,East,Patna
+D0549,Dr. Farhan Yadav,Orthopedics,B,7,Chennai,South,Chennai
+D0550,Dr. Pooja Agarwal,Neurology,C,6,Ludhiana,North,Ludhiana
+D0551,Dr. Vivek Menon,Neurology,C,24,Ahmedabad,West,Ahmedabad
+D0552,Dr. Bhavna Jain,Neurology,B,25,North Delhi,North,Delhi
+D0553,Dr. Varun Mishra,Diabetology,C,30,North Delhi,North,Delhi
+D0554,Dr. Aisha Chatterjee,Gastroenterology,C,21,Ahmedabad,West,Ahmedabad
+D0555,Dr. Tanvi Chatterjee,Neurology,B,15,Nagpur,West,Nagpur
+D0556,Dr. Sameer Agarwal,Gastroenterology,C,7,Bhubaneswar,East,Bhubaneswar
+D0557,Dr. Simran Mehta,Cardiology,B,10,Lucknow,North,Lucknow
+D0558,Dr. Rahul Jain,Pulmonology,B,20,Patna,East,Patna
+D0559,Dr. Shreya Kulkarni,General Medicine,A,12,Dehradun,North,Dehradun
+D0560,Dr. Karan Desai,Cardiology,A,16,Lucknow,North,Lucknow
+D0561,Dr. Dev Verma,Diabetology,C,6,Coimbatore,South,Coimbatore
+D0562,Dr. Rohan Agarwal,Pulmonology,B,14,Kolkata,East,Kolkata
+D0563,Dr. Sneha Menon,Gastroenterology,B,8,Hyderabad,South,Hyderabad
+D0564,Dr. Akash Shah,General Medicine,A,5,Jaipur,North,Jaipur
+D0565,Dr. Anjali Khan,Dermatology,B,5,Jaipur,North,Jaipur
+D0566,Dr. Shreya Verma,Orthopedics,C,17,Surat,West,Surat
+D0567,Dr. Farhan Kapoor,Dermatology,C,12,Nagpur,West,Nagpur
+D0568,Dr. Deepak Menon,Pulmonology,A,4,Siliguri,East,Siliguri
+D0569,Dr. Aditi Singh,Pulmonology,B,16,Mumbai,West,Mumbai
+D0570,Dr. Ayush Khan,Neurology,B,6,Ludhiana,North,Ludhiana
+D0571,Dr. Manish Mehta,Gynecology,B,2,Ranchi,East,Ranchi
+D0572,Dr. Dev Desai,Pulmonology,B,5,Lucknow,North,Lucknow
+D0573,Dr. Siddharth Mishra,Orthopedics,B,15,North Delhi,North,Delhi
+D0574,Dr. Karan Singh,Neurology,B,29,Nagpur,West,Nagpur
+D0575,Dr. Varun Singh,Gastroenterology,B,9,Surat,West,Surat
+D0576,Dr. Sakshi Mishra,Cardiology,B,10,Hyderabad,South,Hyderabad
+D0577,Dr. Pranav Jain,Orthopedics,B,9,Guwahati,East,Guwahati
+D0578,Dr. Rahul Agarwal,Pulmonology,C,12,Ranchi,East,Ranchi
+D0579,Dr. Rahul Reddy,Gynecology,C,22,Mumbai,West,Mumbai
+D0580,Dr. Shreya Patel,Pulmonology,B,11,Siliguri,East,Siliguri
+D0581,Dr. Meera Agarwal,Pulmonology,C,21,Kochi,South,Kochi
+D0582,Dr. Kabir Sen,Gynecology,C,28,Chandigarh,North,Chandigarh
+D0583,Dr. Kabir Nair,Pulmonology,A,29,Ranchi,East,Ranchi
+D0584,Dr. Dev Chatterjee,Diabetology,B,18,Lucknow,North,Lucknow
+D0585,Dr. Deepak Kapoor,Diabetology,B,22,Hyderabad,South,Hyderabad
+D0586,Dr. Pooja Shah,Cardiology,C,28,Kolkata,East,Kolkata
+D0587,Dr. Rohan Mehta,Cardiology,A,24,Dehradun,North,Dehradun
+D0588,Dr. Siddharth Mehta,Pulmonology,B,10,Mumbai,West,Mumbai
+D0589,Dr. Rahul Sen,Dermatology,A,5,Goa,West,Panaji
+D0590,Dr. Neha Sharma,Gastroenterology,B,5,Guwahati,East,Guwahati
+D0591,Dr. Rahul Bhat,Cardiology,C,27,Dehradun,North,Dehradun
+D0592,Dr. Kavya Roy,Orthopedics,B,18,Kochi,South,Kochi
+D0593,Dr. Akash Yadav,Diabetology,C,10,Nagpur,West,Nagpur
+D0594,Dr. Ishita Verma,Gynecology,C,12,Jaipur,North,Jaipur
+D0595,Dr. Farhan Patel,Diabetology,C,10,Vijayawada,South,Vijayawada
+D0596,Dr. Alok Agarwal,Neurology,A,25,Bhubaneswar,East,Bhubaneswar
+D0597,Dr. Simran Kapoor,General Medicine,C,19,Chennai,South,Chennai
+D0598,Dr. Simran Iyer,Neurology,A,27,Ludhiana,North,Ludhiana
+D0599,Dr. Simran Gupta,General Medicine,B,10,Lucknow,North,Lucknow
+D0600,Dr. Karan Bhat,Gastroenterology,C,15,Nagpur,West,Nagpur
+D0601,Dr. Riya Kapoor,General Medicine,B,5,Bengaluru,South,Bengaluru
+D0602,Dr. Aditya Gupta,Pediatrics,B,30,Chennai,South,Chennai
+D0603,Dr. Riya Patel,Pulmonology,B,16,Dehradun,North,Dehradun
+D0604,Dr. Harsh Saxena,Gastroenterology,C,18,Bengaluru,South,Bengaluru
+D0605,Dr. Deepak Sen,Pediatrics,B,13,Pune,West,Pune
+D0606,Dr. Aditi Reddy,Gynecology,B,9,Coimbatore,South,Coimbatore
+D0607,Dr. Aditi Verma,Diabetology,C,29,Bhubaneswar,East,Bhubaneswar
+D0608,Dr. Gauri Reddy,General Medicine,A,16,Kochi,South,Kochi
+D0609,Dr. Varun Sharma,General Medicine,A,21,North Delhi,North,Delhi
+D0610,Dr. Harsh Nair,General Medicine,B,3,Siliguri,East,Siliguri
+D0611,Dr. Sana Shah,Orthopedics,C,10,North Delhi,North,Delhi
+D0612,Dr. Sana Jain,Gynecology,A,25,Siliguri,East,Siliguri
+D0613,Dr. Mohit Sharma,Gynecology,A,4,North Delhi,North,Delhi
+D0614,Dr. Karan Roy,Orthopedics,A,4,Bengaluru,South,Bengaluru
+D0615,Dr. Aditi Saxena,Neurology,C,25,Jaipur,North,Jaipur
+D0616,Dr. Arjun Iyer,Pediatrics,A,10,Jaipur,North,Jaipur
+D0617,Dr. Aditi Rao,Gynecology,B,9,Coimbatore,South,Coimbatore
+D0618,Dr. Tanvi Mishra,Diabetology,C,18,Vijayawada,South,Vijayawada
+D0619,Dr. Diya Sharma,Orthopedics,A,7,Jaipur,North,Jaipur
+D0620,Dr. Yash Khan,Pediatrics,B,3,Siliguri,East,Siliguri
+D0621,Dr. Manish Bhat,General Medicine,B,2,Pune,West,Pune
+D0622,Dr. Farhan Mishra,Pulmonology,C,4,Pune,West,Pune
+D0623,Dr. Aisha Shah,Gynecology,B,6,Pune,West,Pune
+D0624,Dr. Aisha Singh,Gynecology,B,22,Goa,West,Panaji
+D0625,Dr. Manish Shah,Pediatrics,A,10,Ludhiana,North,Ludhiana
+D0626,Dr. Siddharth Shah,Dermatology,C,4,Nagpur,West,Nagpur
+D0627,Dr. Yash Bhat,General Medicine,C,2,Dehradun,North,Dehradun
+D0628,Dr. Neha Gupta,General Medicine,A,15,Chandigarh,North,Chandigarh
+D0629,Dr. Vivek Das,Orthopedics,B,26,Ahmedabad,West,Ahmedabad
+D0630,Dr. Rohan Rao,Orthopedics,C,11,Coimbatore,South,Coimbatore
+D0631,Dr. Dev Singh,Pulmonology,A,3,Kolkata,East,Kolkata
+D0632,Dr. Pranav Singh,Neurology,B,8,Ahmedabad,West,Ahmedabad
+D0633,Dr. Neha Chatterjee,General Medicine,B,16,Pune,West,Pune
+D0634,Dr. Karan Nair,Gastroenterology,B,7,Kolkata,East,Kolkata
+D0635,Dr. Rohan Menon,General Medicine,A,30,Coimbatore,South,Coimbatore
+D0636,Dr. Pooja Patel,General Medicine,B,24,Bhubaneswar,East,Bhubaneswar
+D0637,Dr. Karan Verma,Diabetology,A,11,Guwahati,East,Guwahati
+D0638,Dr. Pranav Kapoor,Diabetology,B,29,Bhubaneswar,East,Bhubaneswar
+D0639,Dr. Riya Verma,Pediatrics,B,11,Ranchi,East,Ranchi
+D0640,Dr. Sakshi Singh,Pulmonology,B,6,Surat,West,Surat
+D0641,Dr. Aditya Bhat,Diabetology,A,29,Surat,West,Surat
+D0642,Dr. Deepak Patel,Gastroenterology,C,29,Pune,West,Pune
+D0643,Dr. Diya Iyer,Orthopedics,A,11,Dehradun,North,Dehradun
+D0644,Dr. Kavya Khan,Cardiology,C,19,Vijayawada,South,Vijayawada
+D0645,Dr. Dev Gupta,General Medicine,B,7,Vijayawada,South,Vijayawada
+D0646,Dr. Siddharth Kapoor,Diabetology,C,20,Bhubaneswar,East,Bhubaneswar
+D0647,Dr. Deepak Mishra,Neurology,A,22,Ludhiana,North,Ludhiana
+D0648,Dr. Sakshi Sen,General Medicine,A,22,Goa,West,Panaji
+D0649,Dr. Bhavna Sen,Cardiology,B,18,Dehradun,North,Dehradun
+D0650,Dr. Rohan Khan,Cardiology,A,22,Guwahati,East,Guwahati
+D0651,Dr. Pranav Gupta,Orthopedics,A,18,Mumbai,West,Mumbai
+D0652,Dr. Sneha Patel,Cardiology,C,25,Lucknow,North,Lucknow
+D0653,Dr. Diya Kapoor,Pediatrics,C,7,Chennai,South,Chennai
+D0654,Dr. Aditi Sharma,Diabetology,A,16,Guwahati,East,Guwahati
+D0655,Dr. Bhavna Chatterjee,Neurology,C,14,Guwahati,East,Guwahati
+D0656,Dr. Akash Mehta,Pulmonology,C,17,Jaipur,North,Jaipur
+D0657,Dr. Pranav Mehta,Pulmonology,C,6,Pune,West,Pune
+D0658,Dr. Anjali Roy,Cardiology,B,11,Lucknow,North,Lucknow
+D0659,Dr. Kavya Reddy,Dermatology,B,29,Pune,West,Pune
+D0660,Dr. Ayush Nair,Pediatrics,B,5,Bengaluru,South,Bengaluru
+D0661,Dr. Rahul Iyer,Cardiology,B,20,Mumbai,West,Mumbai
+D0662,Dr. Varun Gupta,Diabetology,C,21,Chandigarh,North,Chandigarh
+D0663,Dr. Anjali Desai,Pediatrics,A,15,Bengaluru,South,Bengaluru
+D0664,Dr. Meera Desai,Orthopedics,B,2,Chandigarh,North,Chandigarh
+D0665,Dr. Rohan Yadav,Diabetology,A,2,Dehradun,North,Dehradun
+D0666,Dr. Aisha Patel,Diabetology,C,9,North Delhi,North,Delhi
+D0667,Dr. Manish Agarwal,Neurology,B,4,Jaipur,North,Jaipur
+D0668,Dr. Simran Yadav,Gastroenterology,B,4,Nagpur,West,Nagpur
+D0669,Dr. Manish Das,Orthopedics,C,6,Patna,East,Patna
+D0670,Dr. Riya Mehta,Gynecology,C,7,Kolkata,East,Kolkata
+D0671,Dr. Tanvi Sharma,Pulmonology,A,26,Jaipur,North,Jaipur
+D0672,Dr. Manish Yadav,General Medicine,C,20,North Delhi,North,Delhi
+D0673,Dr. Sameer Singh,Pulmonology,C,2,Ahmedabad,West,Ahmedabad
+D0674,Dr. Pooja Bhat,General Medicine,A,20,Kochi,South,Kochi
+D0675,Dr. Vivek Sharma,Diabetology,C,5,Vijayawada,South,Vijayawada
+D0676,Dr. Meera Reddy,Cardiology,B,14,Bhubaneswar,East,Bhubaneswar
+D0677,Dr. Nikhil Iyer,General Medicine,B,3,Ahmedabad,West,Ahmedabad
+D0678,Dr. Gauri Sen,Gastroenterology,B,4,Ludhiana,North,Ludhiana
+D0679,Dr. Sakshi Kulkarni,Cardiology,A,5,North Delhi,North,Delhi
+D0680,Dr. Kavya Shah,Pulmonology,A,14,Lucknow,North,Lucknow
+D0681,Dr. Bhavna Yadav,Neurology,A,15,Chandigarh,North,Chandigarh
+D0682,Dr. Alok Gupta,Neurology,A,12,Patna,East,Patna
+D0683,Dr. Varun Saxena,Dermatology,B,19,Mumbai,West,Mumbai
+D0684,Dr. Ishita Sharma,Dermatology,B,22,Bhubaneswar,East,Bhubaneswar
+D0685,Dr. Diya Gupta,Gastroenterology,A,23,Chennai,South,Chennai
+D0686,Dr. Arjun Yadav,Diabetology,B,18,Bengaluru,South,Bengaluru
+D0687,Dr. Neha Patel,Pulmonology,B,17,Nagpur,West,Nagpur
+D0688,Dr. Simran Chatterjee,Neurology,B,16,Bhubaneswar,East,Bhubaneswar
+D0689,Dr. Ishita Patel,General Medicine,C,8,Chandigarh,North,Chandigarh
+D0690,Dr. Ishita Bhat,Cardiology,B,16,Jaipur,North,Jaipur
+D0691,Dr. Arjun Khan,Diabetology,C,2,Nagpur,West,Nagpur
+D0692,Dr. Karan Jain,Pulmonology,A,30,Surat,West,Surat
+D0693,Dr. Simran Kulkarni,General Medicine,C,12,Chennai,South,Chennai
+D0694,Dr. Bhavna Bhat,Diabetology,C,23,Vijayawada,South,Vijayawada
+D0695,Dr. Ishita Mehta,Dermatology,C,29,Hyderabad,South,Hyderabad
+D0696,Dr. Pooja Yadav,Gynecology,B,16,Mumbai,West,Mumbai
+D0697,Dr. Kavya Gupta,Diabetology,B,26,Pune,West,Pune
+D0698,Dr. Anjali Saxena,Gynecology,B,15,Kolkata,East,Kolkata
+D0699,Dr. Vivek Verma,Cardiology,B,5,Ludhiana,North,Ludhiana
+D0700,Dr. Aisha Roy,Gynecology,C,2,Bengaluru,South,Bengaluru
+D0701,Dr. Deepak Shah,Gynecology,C,5,Bengaluru,South,Bengaluru
+D0702,Dr. Aditya Mehta,Cardiology,B,29,Kolkata,East,Kolkata
+D0703,Dr. Kabir Menon,Dermatology,A,15,Vijayawada,South,Vijayawada
+D0704,Dr. Sneha Yadav,Gynecology,B,11,Goa,West,Panaji
+D0705,Dr. Mohit Sen,Pediatrics,A,14,Pune,West,Pune
+D0706,Dr. Sakshi Patel,Gynecology,A,9,Ahmedabad,West,Ahmedabad
+D0707,Dr. Farhan Iyer,Orthopedics,B,27,Surat,West,Surat
+D0708,Dr. Rahul Gupta,Cardiology,C,30,Dehradun,North,Dehradun
+D0709,Dr. Sana Kapoor,Pediatrics,A,4,Kochi,South,Kochi
+D0710,Dr. Farhan Kulkarni,Neurology,A,22,Dehradun,North,Dehradun
+D0711,Dr. Riya Yadav,Neurology,A,11,Kochi,South,Kochi
+D0712,Dr. Vivek Kapoor,General Medicine,C,3,Kolkata,East,Kolkata
+D0713,Dr. Vivek Nair,Orthopedics,B,28,Siliguri,East,Siliguri
+D0714,Dr. Arjun Chatterjee,Diabetology,A,3,Jaipur,North,Jaipur
+D0715,Dr. Pooja Verma,Gastroenterology,A,7,Kolkata,East,Kolkata
+D0716,Dr. Akash Reddy,Cardiology,B,2,Jaipur,North,Jaipur
+D0717,Dr. Gauri Kulkarni,Gastroenterology,B,15,Ahmedabad,West,Ahmedabad
+D0718,Dr. Kavya Saxena,Pediatrics,B,19,Ludhiana,North,Ludhiana
+D0719,Dr. Arjun Saxena,Pulmonology,B,11,Lucknow,North,Lucknow
+D0720,Dr. Gauri Das,Pulmonology,C,4,Ludhiana,North,Ludhiana
+D0721,Dr. Shreya Roy,General Medicine,B,5,Chandigarh,North,Chandigarh
+D0722,Dr. Ayush Desai,Gynecology,B,29,Bhubaneswar,East,Bhubaneswar
+D0723,Dr. Varun Khan,Gastroenterology,A,25,Chandigarh,North,Chandigarh
+D0724,Dr. Dev Das,General Medicine,C,29,Surat,West,Surat
+D0725,Dr. Ishita Shah,Diabetology,C,17,Coimbatore,South,Coimbatore
+D0726,Dr. Deepak Singh,Diabetology,C,17,Siliguri,East,Siliguri
+D0727,Dr. Siddharth Agarwal,Pulmonology,B,24,Patna,East,Patna
+D0728,Dr. Farhan Desai,Gynecology,A,19,Lucknow,North,Lucknow
+D0729,Dr. Deepak Reddy,Gastroenterology,C,14,Siliguri,East,Siliguri
+D0730,Dr. Vivek Iyer,Diabetology,C,10,Kochi,South,Kochi
+D0731,Dr. Sana Khan,Pediatrics,A,16,Ludhiana,North,Ludhiana
+D0732,Dr. Nikhil Chatterjee,General Medicine,B,3,Nagpur,West,Nagpur
+D0733,Dr. Manish Menon,Pediatrics,B,7,Ranchi,East,Ranchi
+D0734,Dr. Akash Agarwal,General Medicine,C,23,Surat,West,Surat
+D0735,Dr. Deepak Iyer,Neurology,B,27,Ludhiana,North,Ludhiana
+D0736,Dr. Sakshi Iyer,Gynecology,B,4,Guwahati,East,Guwahati
+D0737,Dr. Harsh Menon,General Medicine,B,4,Ranchi,East,Ranchi
+D0738,Dr. Bhavna Iyer,Gastroenterology,A,4,Siliguri,East,Siliguri
+D0739,Dr. Mohit Das,Gynecology,B,24,Ranchi,East,Ranchi
+D0740,Dr. Kabir Chatterjee,Diabetology,A,11,Patna,East,Patna
+D0741,Dr. Sneha Singh,Cardiology,C,11,Nagpur,West,Nagpur
+D0742,Dr. Dev Kulkarni,Neurology,B,2,Ludhiana,North,Ludhiana
+D0743,Dr. Aditi Mishra,General Medicine,B,30,Hyderabad,South,Hyderabad
+D0744,Dr. Sameer Kapoor,Cardiology,A,14,Dehradun,North,Dehradun
+D0745,Dr. Kavya Verma,Pulmonology,A,25,Goa,West,Panaji
+D0746,Dr. Arjun Gupta,Gastroenterology,B,22,Kochi,South,Kochi
+D0747,Dr. Ishita Chatterjee,General Medicine,A,6,Ranchi,East,Ranchi
+D0748,Dr. Bhavna Kapoor,General Medicine,A,25,Mumbai,West,Mumbai
+D0749,Dr. Ayush Yadav,Pediatrics,C,17,Mumbai,West,Mumbai
+D0750,Dr. Nikhil Kapoor,Orthopedics,B,19,Vijayawada,South,Vijayawada
+D0751,Dr. Rahul Khan,Pediatrics,B,7,North Delhi,North,Delhi
+D0752,Dr. Alok Kapoor,Pulmonology,B,26,Chennai,South,Chennai
+D0753,Dr. Manish Mishra,Gynecology,C,29,Vijayawada,South,Vijayawada
+D0754,Dr. Aditi Roy,Neurology,B,13,Chennai,South,Chennai
+D0755,Dr. Pranav Patel,Diabetology,C,4,Surat,West,Surat
+D0756,Dr. Meera Das,Pediatrics,C,26,Bhubaneswar,East,Bhubaneswar
+D0757,Dr. Arjun Bhat,Pulmonology,B,27,Ahmedabad,West,Ahmedabad
+D0758,Dr. Ayush Singh,Diabetology,B,16,Vijayawada,South,Vijayawada
+D0759,Dr. Farhan Singh,Diabetology,C,18,Goa,West,Panaji
+D0760,Dr. Karan Rao,Gastroenterology,B,8,North Delhi,North,Delhi
+D0761,Dr. Bhavna Patel,Cardiology,B,3,Bengaluru,South,Bengaluru
+D0762,Dr. Yash Gupta,General Medicine,B,29,Chandigarh,North,Chandigarh
+D0763,Dr. Neha Iyer,Diabetology,B,16,Ranchi,East,Ranchi
+D0764,Dr. Meera Bhat,Pulmonology,A,9,Hyderabad,South,Hyderabad
+D0765,Dr. Gauri Verma,General Medicine,B,22,Ahmedabad,West,Ahmedabad
+D0766,Dr. Tanvi Kapoor,Orthopedics,A,2,Goa,West,Panaji
+D0767,Dr. Manish Rao,General Medicine,B,4,Hyderabad,South,Hyderabad
+D0768,Dr. Mohit Yadav,Cardiology,B,9,Mumbai,West,Mumbai
+D0769,Dr. Varun Jain,Neurology,C,15,Mumbai,West,Mumbai
+D0770,Dr. Ishita Reddy,General Medicine,A,12,Nagpur,West,Nagpur
+D0771,Dr. Varun Patel,Neurology,B,7,Mumbai,West,Mumbai
+D0772,Dr. Siddharth Khan,Diabetology,B,12,Kolkata,East,Kolkata
+D0773,Dr. Aditi Desai,Cardiology,A,11,Jaipur,North,Jaipur
+D0774,Dr. Akash Rao,General Medicine,A,17,Bhubaneswar,East,Bhubaneswar
+D0775,Dr. Mohit Nair,Pulmonology,A,18,Ahmedabad,West,Ahmedabad
+D0776,Dr. Kavya Mishra,General Medicine,A,27,Chennai,South,Chennai
+D0777,Dr. Manish Gupta,Dermatology,A,25,Lucknow,North,Lucknow
+D0778,Dr. Farhan Mehta,General Medicine,B,10,Surat,West,Surat
+D0779,Dr. Akash Patel,Orthopedics,B,28,Kolkata,East,Kolkata
+D0780,Dr. Simran Jain,Orthopedics,A,17,Mumbai,West,Mumbai
+D0781,Dr. Simran Patel,Cardiology,A,7,Lucknow,North,Lucknow
+D0782,Dr. Shreya Kapoor,Orthopedics,A,11,Bengaluru,South,Bengaluru
+D0783,Dr. Sakshi Khan,General Medicine,B,23,Lucknow,North,Lucknow
+D0784,Dr. Harsh Yadav,Pulmonology,B,25,Pune,West,Pune
+D0785,Dr. Ishita Jain,Diabetology,B,12,Nagpur,West,Nagpur
+D0786,Dr. Mohit Roy,Dermatology,A,6,Chennai,South,Chennai
+D0787,Dr. Aditya Iyer,Gynecology,A,7,Kochi,South,Kochi
+D0788,Dr. Harsh Sharma,Cardiology,C,5,Coimbatore,South,Coimbatore
+D0789,Dr. Harsh Agarwal,Neurology,A,22,Patna,East,Patna
+D0790,Dr. Pranav Reddy,Dermatology,A,16,Chandigarh,North,Chandigarh
+D0791,Dr. Karan Mehta,General Medicine,A,15,Ahmedabad,West,Ahmedabad
+D0792,Dr. Kabir Verma,Dermatology,C,21,North Delhi,North,Delhi
+D0793,Dr. Pooja Rao,Neurology,B,26,North Delhi,North,Delhi
+D0794,Dr. Pooja Khan,Gynecology,B,25,Dehradun,North,Dehradun
+D0795,Dr. Bhavna Saxena,Gynecology,C,5,Hyderabad,South,Hyderabad
+D0796,Dr. Harsh Gupta,Cardiology,A,19,Guwahati,East,Guwahati
+D0797,Dr. Pooja Roy,Pulmonology,C,27,Kolkata,East,Kolkata
+D0798,Dr. Kabir Agarwal,Orthopedics,A,24,Kochi,South,Kochi
+D0799,Dr. Karan Kulkarni,Diabetology,B,11,Kolkata,East,Kolkata
+D0800,Dr. Akash Das,General Medicine,B,13,Ludhiana,North,Ludhiana
+D0801,Dr. Siddharth Rao,Gynecology,B,27,Patna,East,Patna
+D0802,Dr. Sana Nair,Cardiology,C,2,Guwahati,East,Guwahati
+D0803,Dr. Sneha Bhat,Pulmonology,A,17,Jaipur,North,Jaipur
+D0804,Dr. Harsh Iyer,Pediatrics,C,5,Goa,West,Panaji
+D0805,Dr. Diya Yadav,General Medicine,B,27,Bhubaneswar,East,Bhubaneswar
+D0806,Dr. Siddharth Patel,Pulmonology,B,3,Goa,West,Panaji
+D0807,Dr. Karan Kapoor,Gynecology,C,2,Patna,East,Patna
+D0808,Dr. Aisha Agarwal,Pulmonology,A,11,Ranchi,East,Ranchi
+D0809,Dr. Varun Agarwal,Diabetology,C,7,Goa,West,Panaji
+D0810,Dr. Gauri Desai,Cardiology,B,16,Chandigarh,North,Chandigarh
+D0811,Dr. Meera Sen,Gynecology,B,10,Ahmedabad,West,Ahmedabad
+D0812,Dr. Dev Jain,General Medicine,A,12,Dehradun,North,Dehradun
+D0813,Dr. Riya Saxena,Pulmonology,B,18,Goa,West,Panaji
+D0814,Dr. Alok Chatterjee,Cardiology,B,18,Hyderabad,South,Hyderabad
+D0815,Dr. Alok Roy,Pulmonology,B,29,Goa,West,Panaji
+D0816,Dr. Ishita Iyer,Gynecology,A,15,Ludhiana,North,Ludhiana
+D0817,Dr. Meera Iyer,Pulmonology,A,18,Pune,West,Pune
+D0818,Dr. Meera Mishra,Gynecology,C,21,Coimbatore,South,Coimbatore
+D0819,Dr. Rohan Chatterjee,General Medicine,A,7,North Delhi,North,Delhi
+D0820,Dr. Harsh Sen,Pulmonology,B,21,Dehradun,North,Dehradun
+D0821,Dr. Alok Bhat,Pediatrics,C,26,Guwahati,East,Guwahati
+D0822,Dr. Dev Iyer,Pulmonology,A,11,Jaipur,North,Jaipur
+D0823,Dr. Gauri Khan,General Medicine,A,7,Surat,West,Surat
+D0824,Dr. Ayush Kapoor,Pediatrics,B,12,Ludhiana,North,Ludhiana
+D0825,Dr. Sneha Chatterjee,General Medicine,A,9,Jaipur,North,Jaipur
+D0826,Dr. Simran Nair,Orthopedics,B,18,Nagpur,West,Nagpur
+D0827,Dr. Aditya Mishra,Gynecology,B,27,Bengaluru,South,Bengaluru
+D0828,Dr. Gauri Bhat,Diabetology,B,19,Ludhiana,North,Ludhiana
+D0829,Dr. Ayush Iyer,General Medicine,B,5,Chandigarh,North,Chandigarh
+D0830,Dr. Ishita Mishra,Cardiology,B,11,Lucknow,North,Lucknow
+D0831,Dr. Meera Gupta,General Medicine,B,21,Kochi,South,Kochi
+D0832,Dr. Ayush Jain,Diabetology,A,11,Patna,East,Patna
+D0833,Dr. Sana Iyer,Gastroenterology,B,19,Ludhiana,North,Ludhiana
+D0834,Dr. Akash Khan,Diabetology,C,22,Pune,West,Pune
+D0835,Dr. Rohan Desai,Neurology,B,11,Ahmedabad,West,Ahmedabad
+D0836,Dr. Kavya Patel,General Medicine,B,20,Ahmedabad,West,Ahmedabad
+D0837,Dr. Aditi Gupta,General Medicine,B,13,Dehradun,North,Dehradun
+D0838,Dr. Neha Yadav,General Medicine,A,5,Chandigarh,North,Chandigarh
+D0839,Dr. Rahul Singh,Gastroenterology,A,12,Bengaluru,South,Bengaluru
+D0840,Dr. Vivek Roy,Pulmonology,A,14,Ahmedabad,West,Ahmedabad
+D0841,Dr. Karan Agarwal,General Medicine,C,2,Ahmedabad,West,Ahmedabad
+D0842,Dr. Tanvi Iyer,Pediatrics,A,27,Mumbai,West,Mumbai
+D0843,Dr. Siddharth Das,Orthopedics,C,17,Ranchi,East,Ranchi
+D0844,Dr. Harsh Shah,Diabetology,A,3,Hyderabad,South,Hyderabad
+D0845,Dr. Farhan Sen,Pediatrics,B,27,Nagpur,West,Nagpur
+D0846,Dr. Sameer Kulkarni,General Medicine,B,26,Ludhiana,North,Ludhiana
+D0847,Dr. Gauri Shah,Cardiology,B,2,Bhubaneswar,East,Bhubaneswar
+D0848,Dr. Neha Roy,Pulmonology,C,6,Guwahati,East,Guwahati
+D0849,Dr. Manish Kulkarni,Diabetology,C,12,North Delhi,North,Delhi
+D0850,Dr. Yash Chatterjee,General Medicine,C,16,Ranchi,East,Ranchi

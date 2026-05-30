@@ -1,0 +1,2 @@
+-- Use MySQL Workbench Table Data Import Wizard for the CSV files in data/.
+-- Import in this order: reps, doctors, products, call_activity, sales, incentive_compensation.
