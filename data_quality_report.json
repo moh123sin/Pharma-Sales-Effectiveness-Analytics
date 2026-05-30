@@ -1,0 +1,14 @@
+{
+  "sales_rows": 10368,
+  "call_activity_rows": 10368,
+  "reps": 72,
+  "doctors": 850,
+  "products": 8,
+  "unique_sales_ids": 10368,
+  "orphan_reps": 0,
+  "orphan_doctors": 0,
+  "orphan_products": 0,
+  "nonpositive_revenue": 0,
+  "best_model": "Random Forest",
+  "forecast_total": 16719258.82
+}
